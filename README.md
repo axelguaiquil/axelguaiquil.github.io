@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Axel Guaiquil
+- 👀 I’m interested in python and jaascript
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: axelguaiquil@gmail.com
